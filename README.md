@@ -44,5 +44,8 @@ Here are some ideas to get you started:
   </a>
    <a href="https://gitlab.com/tomatebg">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a> 
+  <a href="https://www.behance.net/rogriobayer">
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </div>
